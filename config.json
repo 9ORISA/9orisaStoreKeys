@@ -1,4 +1,4 @@
 {
-    "Anticheat": ["Key1", "Key2"],
-    "AnticheatV2": ["Key4", "Key3"]
-} 
+    "AnticheatV2": ["Key1", "Key2", "Key3", "Key4"],
+    "OtherScript": ["Key5", "Key6"]
+}
