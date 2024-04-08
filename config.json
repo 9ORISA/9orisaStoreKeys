@@ -1,10 +1,4 @@
 {
-    "Anticheat": {
-        "key1": "value1",
-        "key2": "value2"
-    },
-    "AnticheatV2": {
-        "key3": "value3",
-        "key4": "value4"
-    }
-}
+    "Anticheat": ["Key1", "Key2"],
+    "AnticheatV2": ["Key4", "Key3"]
+} 
